@@ -54,3 +54,6 @@
     color: #1e3932;
     background-color: #d4e9e2;
 }
+ul{
+    list-style-type: none;
+}
